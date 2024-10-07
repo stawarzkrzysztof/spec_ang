@@ -1,0 +1,42 @@
+Canva view-only presentation link:
+https://www.canva.com/design/DAGSjDTG2gM/8COqTsJPBk1LUKyVFtZ7Cg/edit?utm_content=DAGSjDTG2gM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+Links:
+- https://m.media-amazon.com/images/I/61QQkSAo5dL._SL1360_.jpg
+- https://com.miami.edu/profile/alberto-cairo/
+- https://www.linkedin.com/posts/storytelling-with-data-llc_dataviz-presentation-activity-7244357862498430979-MH4h?utm_source=share&utm_medium=member_desktop
+- https://www.linkedin.com/pulse/improving-data-visualization-using-principle-data-ink-wijesinghe/
+- https://medium.com/@stevoscript/why-not-pie-4752f086c32
+- https://stackoverflow.com/questions/22369224/3d-pie-chart-in-highcharts-javascript
+- https://scienceprimer.com/log-scale-overview
+- https://www.facebook.com/photo.php?fbid=604336548507785&set=pb.100067943363854.-2207520000&type=3
+- https://www.researchgate.net/figure/Reversed-Y-axis-figure-showing-the-relationship-between-the-population-of-species-X-and_fig3_330945404
+- https://www.youtube.com/watch?v=dQw4w9WgXcQ
+- https://www.newscientist.com/article/2167127-why-the-hockey-stick-graph-will-always-be-climate-sciences-icon/
+- https://www.cyberjournalist.net/2024/03/31/data-journalism-tells-the-story-through-numbers-with-unprecedented-clarity/
+- https://www.axios.com/2023/07/10/ai-misinformation-response-measures
+- https://www.youtube.com/watch?v=AdSZJzb-aX8
+
+Bibliography:
+- Cairo, A. (2016). The Truthful Art: Data, Charts, and Maps for Communication. New Riders.
+- Card, S. K., Mackinlay, J., & Shneiderman, B. (1999). Readings in information visualization: Using Vision to Think. (p. 6) Morgan Kaufmann.
+- Manovich, L. (2010). What Is Visualization? (p. 20) https://manovich.net/index.php/projects/what-is visualization
+- Friendly, M., Denis, D., & Truman, H. (2001). Milestones in the history of thematic cartography, statistica, graphics, and data visualization. (p. 2).
+- Li, Q. (2020). Overview of Data Visualization. In Q. Li, Embodying Data (pp. 17–47). Springer Singapore. https://doi.org/10.1007/978-981-15-5069-0_2
+- Few, S. (2012). Show me the numbers: Designing Tables and Graphs to Enlighten. (p. 61)
+- Rehman, I., Hazhirkarzar, B., & Patel, B. C. (2023). Anatomy, Head and Neck, Eye. In StatPearls. StatPearls Publishing.
+- Enoch, J., McDonald, L., Jones, L., Jones, P. R., & Crabb, D. P. (2019). Evaluating Whether Sight Is the Most Valued Sense. JAMA Ophthalmology, 137(11), 1317.
+- Cleveland, W. S., & McGill, R. (1984). Graphical Perception: Theory, Experimentation, and Application to the Development of Graphical Methods. Journal of the American Statistical Association, 79(387), 531-554. https://doi.org/10.1080/01621459.1984.10478080
+- Bertin, J., & Berg, W. J. (1967). Semiology of Graphics: Diagrams, Networks, Maps (1st ed). ESRI Press : Distributed by Ingram Publisher Services.
+- Nussbaumer Knaflic, C. (2015). Storytelling with data: A data visualization guide for business professionals. (p. 62-65) Wiley.
+- Wilke, C. O. (2019). Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures (First edition; chap. 26, par. 1). O’Reilly.
+- Tufte, E. R. (2013). The Visual Display of Quantitative Information (2nd ed., 8th print). Graphics Press.
+- Wilke, C. O. (2019). Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures (First edition; chap. 3.2). O’Reilly.
+- Snow, J. (1855). On the Mode of Communication of Cholera. John Churchill.
+- Nussbaumer Knaflic, C. (2015). storytelling with data: a data visualization guide for business professionals. Wiley.
+- Wilke, C. O. (2019). Fundamentals of Data Visualization: A Primer on Making Informative and Compelling Figures (First edition). O’Reilly.
+
+Krzysztof Tomasz Stawarz
+Social Informatics
+Faculty of Humanities AGH
+08.10.2024, Cracow
